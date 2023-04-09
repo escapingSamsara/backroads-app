@@ -32,7 +32,7 @@ const About = () => {
             traveler, we have the expertise and knowledge to create a journey
             that's perfect for you.
           </p>
-          <a href="#" className="btn" rel="noreferrer">
+          <a href="#services" className="btn" rel="noreferrer">
             read more
           </a>
         </article>
